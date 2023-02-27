@@ -1,107 +1,102 @@
 {
-	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-02-27T11:13:47.105-00:00",
-	"Sources" : 
-	[
-		{
-			"Packages" : 
-			[
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2005.x64"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
-				},
-				{
-					"PackageIdentifier" : "7zip.7zip"
-				},
-				{
-					"PackageIdentifier" : "Git.Git"
-				},
-				{
-					"PackageIdentifier" : "Logitech.UnifyingSoftware"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"PackageIdentifier" : "Notepad++.Notepad++"
-				},
-				{
-					"PackageIdentifier" : "Spotify.Spotify"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Bicep"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Azure.StorageExplorer"
-				},
-				{
-					"PackageIdentifier" : "SlackTechnologies.Slack"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.AzureCLI"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerShell"
-				},
-                {
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://cdn.winget.microsoft.com/cache",
-				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name" : "winget",
-				"Type" : "Microsoft.PreIndexed.Package"
-			}
-		},
-		{
-			"Packages" : 
-			[
-				{
-					"PackageIdentifier" : "XPFNZKSKLBP7RJ"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
-				"Identifier" : "StoreEdgeFD",
-				"Name" : "msstore",
-				"Type" : "Microsoft.Rest"
-			}
-		}
-	],
-	"WinGetVersion" : "1.4.10173"
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2023-02-27T11:13:47.105-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2005.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2005.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+        },
+        {
+          "PackageIdentifier": "7zip.7zip"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Logitech.UnifyingSoftware"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier": "Notepad++.Notepad++"
+        },
+        {
+          "PackageIdentifier": "Spotify.Spotify"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Edge"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerToys"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Bicep"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Azure.StorageExplorer"
+        },
+        {
+          "PackageIdentifier": "SlackTechnologies.Slack"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureCLI"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "XPFNZKSKLBP7RJ"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+        "Identifier": "StoreEdgeFD",
+        "Name": "msstore",
+        "Type": "Microsoft.Rest"
+      }
+    }
+  ],
+  "WinGetVersion": "1.4.10173"
 }
