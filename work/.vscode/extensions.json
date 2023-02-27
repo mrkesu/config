@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-vscode.powershell",
+        "ms-azuretools.vscode-bicep",
+        "zainchen.json",
+        "ms-vsliveshare.vsliveshare",
+        "me-dutour-mathieu.vscode-github-actions",
+        "bierner.github-markdown-preview",
+        "oderwat.indent-rainbow",
+        "github.vscode-pull-request-github",
+        "esbenp.prettier-vscode",
+        "jallen7usa.vscode-cue-fmt"
+    ]
+}
+// git clone https://github.com/cue-sh/vscode-cue ~/.vscode/extensions/vscode-cue
+// git clone https://github.com/cue-sh/vscode-cue %home%/.vscode/extensions/vscode-cue
+
+// Windows: git clone https://github.com/cue-sh/vscode-cue C:\Users\<dittbrukernavn>\.vscode\extensions\vscode-cue
