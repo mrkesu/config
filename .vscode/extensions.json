@@ -5,11 +5,23 @@
         "zainchen.json",
         "ms-vsliveshare.vsliveshare",
         "me-dutour-mathieu.vscode-github-actions",
-        "bierner.github-markdown-preview",
         "oderwat.indent-rainbow",
         "github.vscode-pull-request-github",
         "esbenp.prettier-vscode",
-        "jallen7usa.vscode-cue-fmt"
+        "jallen7usa.vscode-cue-fmt",
+        "waderyan.gitblame",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "bierner.github-markdown-preview",
+        "budparr.language-hugo-vscode",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-emoji",
+        "bierner.markdown-mermaid",
+        "mechatroner.rainbow-csv",
+        "ionutvmi.reg",
+        "vscode-icons-team.vscode-icons",
+        "redhat.vscode-yaml"
     ]
 }
 // git clone https://github.com/cue-sh/vscode-cue ~/.vscode/extensions/vscode-cue
