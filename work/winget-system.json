@@ -45,43 +45,13 @@
                     "PackageIdentifier": "7zip.7zip"
                 },
                 {
-                    "PackageIdentifier": "Git.Git"
-                },
-                {
                     "PackageIdentifier": "Logitech.UnifyingSoftware"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.WindowsTerminal"
                 },
                 {
                     "PackageIdentifier": "Notepad++.Notepad++"
                 },
                 {
-                    "PackageIdentifier": "Spotify.Spotify"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.Edge"
-                },
-                {
                     "PackageIdentifier": "Microsoft.PowerToys"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.Bicep"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.Azure.StorageExplorer"
-                },
-                {
-                    "PackageIdentifier": "SlackTechnologies.Slack"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.AzureCLI"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.PowerShell"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.VisualStudioCode"
                 }
             ]
         },
