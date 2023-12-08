@@ -29,5 +29,10 @@
     "powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
     "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
     "powershell.codeFormatting.whitespaceBetweenParameters": false,
-    "powershell.codeFormatting.whitespaceInsideBrace": true
+    "powershell.codeFormatting.whitespaceInsideBrace": true,
+
+    // Vise liten gul firkant rundt "uvanlige" karakterer"
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "editor.unicodeHighlight.nonBasicASCII": true // denne trigger på æøå også, muligens den blir litt overkill
 }
