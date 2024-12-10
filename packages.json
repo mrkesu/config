@@ -1,0 +1,85 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2024-09-06T12:18:46.890-00:00",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "jeffvli.Feishin"
+                },
+
+                {
+                    "PackageIdentifier": "Docker.DockerCLI"
+                },
+                {
+                    "PackageIdentifier": "Git.Git"
+                },
+                {
+                    "PackageIdentifier": "OpenTofu.Tofu"
+                },
+                {
+                    "PackageIdentifier": "PrismLauncher.PrismLauncher"
+                },
+                {
+                    "PackageIdentifier": "Spotify.Spotify"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Teams.Classic"
+                },
+                {
+                    "PackageIdentifier": "Zoom.Zoom.EXE"
+                },
+                {
+                    "PackageIdentifier": "SlackTechnologies.Slack"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Bicep"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Teams"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.AppInstaller"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.UI.Xaml.2.7"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.UI.Xaml.2.8"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCLibs.Desktop.14"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Teams.Free"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        },
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "XPDM27W10192Q0"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+                "Identifier": "StoreEdgeFD",
+                "Name": "msstore",
+                "Type": "Microsoft.Rest"
+            }
+        }
+    ],
+    "WinGetVersion": "1.8.1911"
+}

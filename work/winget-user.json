@@ -33,9 +33,6 @@
                     "PackageIdentifier": "Microsoft.AzureCLI"
                 },
                 {
-                    "PackageIdentifier": "Microsoft.PowerShell"
-                },
-                {
                     "PackageIdentifier": "Microsoft.VisualStudioCode"
                 }
             ]

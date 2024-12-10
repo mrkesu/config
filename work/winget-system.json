@@ -51,7 +51,13 @@
                     "PackageIdentifier": "Notepad++.Notepad++"
                 },
                 {
-                    "PackageIdentifier": "Microsoft.PowerToys"
+                    "PackageIdentifier": "Mozilla.Firefox"
+                },
+                {
+                    "PackageIdentifier": "PuTTY.PuTTY"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.AzureCLI"
                 }
             ]
         },
